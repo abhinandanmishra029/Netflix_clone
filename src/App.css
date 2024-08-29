@@ -1,0 +1,40 @@
+body{
+  background-color: rgb(83, 251, 215);
+}
+.nav{
+  text-align:left;
+  margin: none;
+  padding: 5px;
+  font-size:15px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background: linear-gradient(45deg, rgb(208, 255, 122) 50%, transparent 50%);
+  filter: drop-shadow(0.6rem 0.6rem 1rem red);
+  color: rgb(0, 4, 255);
+  font-weight: bold;
+}
+
+.nav svg{
+  height: auto;
+  width: 110px;
+  text-align:left;
+  padding: 10px;
+}
+
+.card{
+  height: 10px;
+  width: 200px;
+ margin: 20px;
+
+ display: inline-block;
+
+}
+
+.card img{
+  height: 150px;
+  width: 200px;
+}
+.card .card-bod .bt button:hover{
+  background-color: rgb(6, 255, 6);
+ 
+
+}
